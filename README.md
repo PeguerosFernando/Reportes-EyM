@@ -19,4 +19,4 @@ Este repositorio contiene los códigos utilizados para el análisis y cálculo d
 ---
 
 📌 **Autor:** Luis Fernando Pegueros Pérez  
-📅 **Última actualización:** *12 febrero 2025*
+📅 **Última actualización:** *13 febrero 2025*
